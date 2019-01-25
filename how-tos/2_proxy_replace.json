@@ -1,0 +1,11 @@
+{
+	"title":"Cleaning place and sector names with the HXL proxy in a re-usable process",
+	"description":"How to use the HXL proxy to clean data to create consistently spelt values such as place names or sector names.",
+	"link":"https://docs.google.com/document/d/e/2PACX-1vT3eiPlYf8FLUgg2jiMOxjmQASTokBrJmOe_bsQfSA6I_EegV68hkZloOqnjfd40VgLsqZkvCNukNwk/pub?embedded=true",
+	"date":"2019-01-25",
+	"author":"Simon Johnson",
+	"tools":["Spreadsheet","HXL Proxy","Cleaning"],
+	"tags":[],
+	"suggestions":[],
+	"userlevel":"Excel Comfortable"
+}

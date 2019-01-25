@@ -1,0 +1,33 @@
+p {
+    font-size:15px;
+}
+
+#menulink {
+	margin-bottom:40px;
+}
+
+.subtitle {
+	font-size:18px;
+}
+
+#headline {
+	margin-top:60px;
+}
+
+.card {
+	min-height:300px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#ddd;
+	border-radius:20px;
+	padding:20px;
+}
+
+.cardwide {
+	border-width:1px;
+	border-style:solid;
+	border-color:#ddd;
+	border-radius:20px;
+	padding:20px;
+	margin-bottom:20px;
+}
