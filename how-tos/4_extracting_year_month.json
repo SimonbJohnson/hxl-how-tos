@@ -1,0 +1,11 @@
+{
+	"title":"Extract years and months from dates",
+	"description":"How to add extract the year or month from a date into a new column.  This is useful for creating filters for spreadsheets and dashboards",
+	"link":"https://docs.google.com/document/d/e/2PACX-1vQ1qJR8p6xLwrbggeImr056dOkIqCCV1lViIZ62yH2rH_PREJ-8QyvEmnk-KiGqYL3VKWTaMSOY1FOK/pub?embedded=true",
+	"date":"2019-03-08",
+	"author":"Simon Johnson",
+	"tools":["Spreadsheet","HXL Proxy"],
+	"tags":["Date","Year","Month","Extract"],
+	"suggestions":[],
+	"userlevel":"Excel Basic"
+}
