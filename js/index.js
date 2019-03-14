@@ -21,7 +21,7 @@ function createFeatured(result){
         $.ajax({
             url: "how-tos/"+feature+".json",
             success: function(result){
-                var html = '<div class="col-md-4"><div class="card"><h4><a href="howto.html?id='+feature+'">'+result.title+'</a></h4><p>'+result.description+'</p></div></div>'
+                var html = '<div class="col-md-4"><div class="card"><img class="thumbnail" src="images/thumbnails/'+result.thumbnail+'.jpg" /><h4><a href="howto.html?id='+feature+'">'+result.title+'</a></h4><p>'+result.description+'</p></div></div>'
                 $('#featuredtuts').append(html);
             }
         });         
@@ -34,7 +34,11 @@ function createListOfTutorials(data){
         $.ajax({
             url: "how-tos/"+tutorial+".json",
             success: function(result){
-                var html = '<div class="col-md-12"><div class="cardwide"><h4><a href="howto.html?id='+tutorial+'">'+result.title+'</a></h4><p>'+result.description+'</p></div></div>'
+                var tags = 'Tags:';
+                result.tags.forEach(function(t){
+                    tags+=' '+t.toLowerCase()+',';
+                });
+                var html = '<div class="cardwide row"><div class="col-md-4"><img class="thumbnail" src="images/thumbnails/'+result.thumbnail+'.jpg" /></div><div class="col-md-8"><h4><a href="howto.html?id='+tutorial+'">'+result.title+'</a></h4><p>'+result.description+'</p><p class="subtext">'+tags+'</p></div></div>'
                 $('#alltuts').append(html);
             }
         });         

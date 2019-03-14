@@ -5,7 +5,8 @@
 	"date":"2019-01-25",
 	"author":"Simon Johnson",
 	"tools":["Spreadsheet"],
-	"tags":["Tagging"],
+	"tags":["Tagging","Add","HXL"],
 	"suggestions":[],
-	"userlevel":"Excel Basic"
+	"userlevel":"Excel Basic",
+	"thumbnail":"add_hxl"
 }
