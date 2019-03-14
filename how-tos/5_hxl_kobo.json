@@ -1,0 +1,12 @@
+{
+	"title":"Adding HXL to Kobo surveys",
+	"description":"How to add HXL tags to Kobo survery and download data.",
+	"link":"https://docs.google.com/document/d/e/2PACX-1vSvuS-FSPwfJzdY117oM7-3UScP0d8j4TVTc9L-SHLIkrZDntN-Uvp13mTWlIvU-gg4B8v6d5BX-5Bh/pub?embedded=true",
+	"date":"2019-03-14",
+	"author":"David Megginson",
+	"tools":["Spreadsheet","Kobo"],
+	"tags":["add","tags","kobo"],
+	"suggestions":[],
+	"userlevel":"Excel Basic",
+	"thumbnail":"hxl_kobo"
+}
