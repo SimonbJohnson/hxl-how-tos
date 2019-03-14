@@ -5,7 +5,8 @@
 	"date":"2019-01-25",
 	"author":"Simon Johnson",
 	"tools":["Spreadsheet","HXL Proxy"],
-	"tags":[],
+	"tags":["Combine","Merge","Append","Join"],
 	"suggestions":[],
-	"userlevel":"Excel Comfortable"
+	"userlevel":"Excel Comfortable",
+	"thumbnail":"append"
 }

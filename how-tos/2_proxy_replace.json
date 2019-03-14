@@ -4,8 +4,9 @@
 	"link":"https://docs.google.com/document/d/e/2PACX-1vT3eiPlYf8FLUgg2jiMOxjmQASTokBrJmOe_bsQfSA6I_EegV68hkZloOqnjfd40VgLsqZkvCNukNwk/pub?embedded=true",
 	"date":"2019-01-25",
 	"author":"Simon Johnson",
-	"tools":["Spreadsheet","HXL Proxy","Cleaning"],
-	"tags":[],
+	"tools":["Spreadsheet","HXL Proxy"],
+	"tags":["Cleaning","clean","replace","spelling","misspelling"],
 	"suggestions":[],
-	"userlevel":"Excel Comfortable"
+	"userlevel":"Excel Comfortable",
+	"thumbnail":"clean_place"
 }

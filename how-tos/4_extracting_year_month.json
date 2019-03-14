@@ -7,5 +7,6 @@
 	"tools":["Spreadsheet","HXL Proxy"],
 	"tags":["Date","Year","Month","Extract"],
 	"suggestions":[],
-	"userlevel":"Excel Basic"
+	"userlevel":"Excel Basic",
+	"thumbnail":"extract_years"
 }
